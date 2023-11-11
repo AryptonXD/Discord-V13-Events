@@ -2,11 +2,11 @@ Discord.js v13 Events
 ---
 An overview of all events in Discord.js v13 with examples.
 
-📢 | Last updated: 27 July 2022
+📢 | Last updated: 11th November 2023
 
 ℹ️ | `client` references to your client instance.
 
-ℹ️ | The v14 overview can be found [here](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb).
+ℹ️ | The v14 overview can be found [here](https://github.com/AryptonXD/Discord-V14-Events).
 
 ### Events
 
